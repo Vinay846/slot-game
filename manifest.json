@@ -1,0 +1,13 @@
+{
+  "bundles": [
+    {
+      "name": "game-screen",
+      "assets": [
+        {
+          "alias": "flowerTop",
+          "src": "assets/symbols.json"
+        }
+      ]
+    }
+  ]
+}
